@@ -1,0 +1,151 @@
+Name,Age,Salary,City,Height_cm,Birth_Year,Product,Purchase_Date
+Dave,28.0,150000.0,Chicago,150.0,1992,LAPTOP,
+Eve,28.0,50000.0,new york,,1992,LAPTOP,2022-02-05
+Carol,35.0,70000.0,Chicago,190.0,1993,LAPTOP,2022-03-12
+Eve,28.0,50000.0,los angeles,180.0,1990,LAPTOP,2022-01-01
+Eve,,,los angeles,150.0,1992,Laptop,
+Bob,28.0,60000.0,los angeles,190.0,1992,LAPTOP,2022-01-01
+Carol,35.0,150000.0,Chicago,150.0,1990,phone,2022-02-05
+Carol,35.0,60000.0,los angeles,170.0,1990,Tablet,2022-02-05
+Carol,,60000.0,chicago,150.0,1992,Tablet,2022-02-05
+Eve,,150000.0,Chicago,,1990,Laptop,
+Dave,30.0,70000.0,los angeles,150.0,1992,LAPTOP,2022-03-12
+Carol,30.0,,chicago,150.0,1992,LAPTOP,
+Frank,28.0,50000.0,Los Angeles,,1993,LAPTOP,2022-01-01
+Eve,,80000.0,los angeles,180.0,1995,Phone,
+Bob,25.0,50000.0,Chicago,150.0,1992,lap top,2022-01-01
+Dave,28.0,80000.0,New York,,1985,Phone,
+Frank,,50000.0,los angeles,190.0,1994,lap top,2022-03-12
+Frank,,150000.0,New York,170.0,1995,LAPTOP,2022-01-01
+Bob,,,chicago,170.0,1995,LAPTOP,2022-02-05
+Dave,,80000.0,Los Angeles,150.0,1995,Phone,2022-02-05
+Eve,,900000.0,new york,180.0,1993,Phone,
+Alice,,70000.0,Los Angeles,180.0,1992,lap top,2022-02-05
+Dave,,50000.0,los angeles,190.0,1993,Tablet,2022-01-01
+Bob,,50000.0,New York,150.0,1992,lap top,2022-02-05
+Frank,35.0,80000.0,New York,170.0,1993,Phone,2022-03-12
+Eve,30.0,70000.0,Chicago,180.0,1993,phone,2022-03-12
+Dave,,70000.0,New York,150.0,1994,Phone,
+Alice,25.0,150000.0,Chicago,180.0,1985,phone,2022-01-01
+Alice,,900000.0,chicago,,1993,Laptop,2022-03-12
+Carol,25.0,150000.0,new york,180.0,1994,Phone,2022-03-12
+Carol,25.0,150000.0,los angeles,170.0,1990,Laptop,2022-01-01
+Bob,25.0,150000.0,Chicago,160.0,1985,Tablet,2022-02-05
+Dave,35.0,150000.0,new york,190.0,1993,lap top,2022-02-05
+Dave,,150000.0,New York,190.0,1995,phone,
+Frank,25.0,,New York,170.0,1990,lap top,2022-02-05
+Frank,,70000.0,new york,180.0,1990,Laptop,2022-01-01
+Frank,28.0,150000.0,New York,150.0,1994,phone,2022-03-12
+Carol,25.0,70000.0,chicago,180.0,1990,lap top,2022-02-05
+Dave,35.0,70000.0,chicago,170.0,1985,Phone,
+Dave,,60000.0,new york,190.0,1993,LAPTOP,2022-02-05
+Alice,35.0,,Chicago,180.0,1993,Laptop,2022-01-01
+Carol,25.0,150000.0,Chicago,190.0,1995,lap top,
+Eve,,50000.0,new york,150.0,1994,Laptop,2022-02-05
+Carol,28.0,80000.0,Chicago,190.0,1995,Laptop,
+Eve,25.0,900000.0,Chicago,190.0,1990,phone,2022-01-01
+Alice,35.0,50000.0,chicago,160.0,1995,phone,2022-03-12
+Bob,30.0,,Chicago,160.0,1985,LAPTOP,2022-01-01
+Dave,,80000.0,Los Angeles,,1993,Phone,2022-01-01
+Alice,35.0,,los angeles,160.0,1990,Laptop,2022-01-01
+Dave,,70000.0,New York,190.0,1995,lap top,2022-01-01
+Frank,25.0,80000.0,Los Angeles,170.0,1994,Tablet,2022-03-12
+Bob,,70000.0,Chicago,190.0,1985,Laptop,2022-03-12
+Bob,25.0,50000.0,chicago,170.0,1985,Laptop,
+Alice,,50000.0,new york,170.0,1995,LAPTOP,2022-02-05
+Bob,25.0,80000.0,Chicago,160.0,1993,Phone,2022-03-12
+Eve,30.0,80000.0,chicago,180.0,1995,Tablet,2022-03-12
+Bob,,150000.0,los angeles,150.0,1990,phone,2022-02-05
+Dave,,,Chicago,160.0,1995,phone,2022-03-12
+Dave,,150000.0,new york,160.0,1985,lap top,2022-01-01
+Dave,30.0,,chicago,180.0,1995,Tablet,2022-01-01
+Dave,35.0,150000.0,chicago,150.0,1993,phone,2022-02-05
+Eve,25.0,70000.0,chicago,190.0,1994,lap top,
+Carol,28.0,80000.0,los angeles,,1992,Phone,
+Frank,25.0,50000.0,Chicago,,1995,lap top,2022-02-05
+Alice,25.0,,los angeles,190.0,1993,phone,2022-02-05
+Dave,35.0,,New York,160.0,1993,LAPTOP,2022-01-01
+Bob,25.0,50000.0,New York,150.0,1994,LAPTOP,
+Dave,30.0,150000.0,Chicago,160.0,1985,LAPTOP,2022-03-12
+Bob,30.0,,los angeles,170.0,1993,phone,2022-01-01
+Frank,,900000.0,new york,160.0,1993,LAPTOP,2022-02-05
+Frank,,70000.0,chicago,160.0,1993,Tablet,
+Frank,28.0,80000.0,chicago,190.0,1993,Phone,2022-03-12
+Bob,25.0,50000.0,Chicago,190.0,1990,lap top,2022-03-12
+Dave,25.0,80000.0,New York,190.0,1990,lap top,2022-01-01
+Frank,35.0,900000.0,New York,,1985,phone,
+Eve,,,chicago,170.0,1995,LAPTOP,
+Bob,30.0,,Chicago,190.0,1993,LAPTOP,2022-02-05
+Bob,28.0,900000.0,los angeles,150.0,1994,Laptop,
+Dave,,50000.0,New York,,1995,Phone,
+Bob,30.0,70000.0,los angeles,180.0,1994,Tablet,2022-01-01
+Bob,,60000.0,New York,150.0,1995,lap top,
+Frank,,50000.0,New York,150.0,1985,Laptop,2022-03-12
+Dave,35.0,60000.0,Los Angeles,190.0,1993,Laptop,2022-01-01
+Frank,35.0,900000.0,New York,180.0,1993,phone,2022-01-01
+Frank,25.0,150000.0,new york,180.0,1992,lap top,2022-02-05
+Dave,,60000.0,Chicago,,1994,phone,
+Alice,28.0,70000.0,Chicago,180.0,1995,Tablet,2022-02-05
+Frank,,150000.0,los angeles,170.0,1995,Laptop,2022-03-12
+Eve,30.0,60000.0,New York,190.0,1990,Laptop,2022-01-01
+Eve,,900000.0,new york,180.0,1992,Phone,2022-01-01
+Bob,,150000.0,los angeles,,1990,Tablet,2022-01-01
+Eve,35.0,900000.0,Los Angeles,170.0,1990,Laptop,2022-03-12
+Bob,25.0,60000.0,los angeles,160.0,1990,Tablet,2022-03-12
+Alice,25.0,900000.0,los angeles,160.0,1994,lap top,2022-02-05
+Dave,,70000.0,New York,170.0,1994,LAPTOP,2022-02-05
+Dave,35.0,60000.0,Los Angeles,,1985,Laptop,2022-02-05
+Dave,,60000.0,los angeles,170.0,1985,Phone,
+Eve,28.0,60000.0,new york,190.0,1990,lap top,2022-01-01
+Alice,35.0,50000.0,new york,190.0,1992,Tablet,2022-01-01
+Eve,,50000.0,Chicago,160.0,1995,phone,2022-02-05
+Eve,,50000.0,Los Angeles,180.0,1994,lap top,2022-01-01
+Alice,35.0,70000.0,Los Angeles,,1992,Laptop,2022-02-05
+Alice,,150000.0,Chicago,160.0,1993,Tablet,
+Alice,35.0,900000.0,los angeles,180.0,1994,LAPTOP,
+Alice,30.0,,Los Angeles,180.0,1994,lap top,2022-03-12
+Dave,35.0,60000.0,new york,190.0,1985,Laptop,
+Carol,35.0,900000.0,new york,150.0,1995,Phone,2022-02-05
+Carol,,60000.0,New York,150.0,1995,phone,
+Alice,,70000.0,Los Angeles,170.0,1993,Tablet,2022-03-12
+Carol,25.0,60000.0,los angeles,190.0,1993,lap top,2022-01-01
+Carol,25.0,50000.0,Chicago,180.0,1994,lap top,2022-02-05
+Alice,30.0,,Chicago,,1990,LAPTOP,2022-01-01
+Carol,25.0,80000.0,los angeles,150.0,1985,LAPTOP,2022-03-12
+Eve,35.0,60000.0,chicago,180.0,1985,Phone,2022-03-12
+Bob,,900000.0,New York,150.0,1994,phone,2022-03-12
+Bob,25.0,50000.0,Chicago,150.0,1992,Phone,2022-01-01
+Alice,25.0,80000.0,Los Angeles,150.0,1990,Laptop,2022-01-01
+Dave,30.0,,New York,,1994,Laptop,2022-01-01
+Alice,,80000.0,Los Angeles,190.0,1990,Phone,2022-01-01
+Dave,30.0,50000.0,new york,,1990,phone,2022-03-12
+Bob,35.0,150000.0,New York,160.0,1990,Phone,2022-03-12
+Alice,,150000.0,Chicago,180.0,1994,phone,2022-02-05
+Frank,30.0,80000.0,New York,190.0,1985,phone,2022-02-05
+Eve,25.0,70000.0,New York,190.0,1985,Tablet,2022-01-01
+Carol,,900000.0,New York,190.0,1990,phone,
+Dave,,900000.0,chicago,190.0,1992,LAPTOP,
+Frank,25.0,80000.0,New York,,1995,phone,2022-03-12
+Carol,30.0,60000.0,Los Angeles,190.0,1994,phone,2022-03-12
+Carol,25.0,60000.0,new york,170.0,1995,phone,2022-03-12
+Alice,,900000.0,los angeles,180.0,1992,Laptop,2022-02-05
+Carol,,900000.0,New York,190.0,1994,LAPTOP,2022-02-05
+Eve,28.0,150000.0,Chicago,180.0,1990,LAPTOP,2022-03-12
+Frank,28.0,70000.0,New York,170.0,1985,Phone,2022-03-12
+Carol,35.0,50000.0,Chicago,170.0,1995,Tablet,2022-03-12
+Alice,25.0,60000.0,Los Angeles,180.0,1993,phone,
+Eve,25.0,900000.0,Chicago,150.0,1993,lap top,2022-02-05
+Bob,35.0,150000.0,los angeles,160.0,1992,Tablet,
+Frank,35.0,,new york,150.0,1990,Tablet,
+Carol,35.0,150000.0,Chicago,150.0,1995,LAPTOP,2022-03-12
+Alice,,60000.0,Chicago,,1990,Tablet,2022-03-12
+Bob,,60000.0,new york,150.0,1995,phone,2022-01-01
+Bob,25.0,150000.0,los angeles,190.0,1992,phone,2022-01-01
+Dave,,50000.0,New York,,1992,Laptop,
+Eve,35.0,80000.0,Chicago,,1993,phone,2022-02-05
+Carol,25.0,60000.0,new york,170.0,1990,phone,2022-03-12
+Alice,,150000.0,Los Angeles,150.0,1994,LAPTOP,2022-03-12
+Dave,,900000.0,new york,170.0,1993,phone,
+Eve,,150000.0,Los Angeles,180.0,1990,Laptop,2022-01-01
+Dave,,70000.0,los angeles,160.0,1993,lap top,2022-02-05
+Frank,35.0,80000.0,New York,,1994,LAPTOP,2022-01-01
